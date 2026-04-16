@@ -1,0 +1,55 @@
+Prompt 1:
+Quiero que actúes como un desarrollador frontend especializado en UX/UI enfocado en productos financieros.
+Necesito que me ayudes a mejorar el diseño CSS de un formulario web. Este formulario tiene como objetivo 
+evaluar si una persona puede acceder a un crédito y calcular el monto posible del préstamo.
+
+Objetivo del diseño
+El formulario debe transmitir confianza, profesionalismo y claridad, como el de una entidad financiera privada moderna.
+
+Requisitos de diseño
+
+Estilo visual tipo empresa financiera (enterprise).
+
+Uso de colores sobrios y profesionales: negro, blanco, beige y tonos neutros elegantes.
+
+Tipografía clara, moderna y fácil de leer.
+
+Excelente legibilidad (contraste adecuado y tamaños de fuente bien definidos).
+
+Diseño limpio, minimalista y ordenado.
+Requisitos técnicos
+
+Usar solo CSS puro (sin librerías ni frameworks).
+
+El diseño debe ser totalmente responsive:
+Desktop
+
+Tablets
+
+Móviles
+
+Asegurar buen espaciado, alineación y jerarquía visual.
+Ajustes específicos
+
+El texto "CrediEcuador" debe estar centrado.
+
+La imagen debajo también debe estar centrada.
+
+El logo no debe exceder los 400px de ancho.
+
+El formulario debe tener un contenedor estilizado (tipo tarjeta o panel).
+
+Botones con estilo moderno (hover, transición suave).
+
+Inputs con buen padding, bordes suaves y enfoque visual (focus state).
+Entregables
+
+CSS mejorado completo.
+
+Explicación breve de los cambios realizados (opcional pero recomendado).
+
+Sugerencias de mejora UX si aplica.
+Código base
+html:
+css:
+no modifiques los id de el html

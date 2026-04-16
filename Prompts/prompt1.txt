@@ -1,0 +1,4 @@
+Prompt 1:
+nombre que elegí para la entidad es: CrediEcuador ahora imagínate que también esta entidad necesita un logo 
+representativo de la entidad, quiero que el logo tenga una imagen representativa de una entidad privada de crédito 
+pero con los colores de la bandera de ecuador, genera la imagen.
