@@ -47,3 +47,4 @@ function mostrarResultado(idComponente, texto){
     let estadoCredito = document.getElementById(idComponente);
     estadoCredito.textContent = texto;
 }
+

@@ -184,3 +184,12 @@ button {
         width: 80%; /* Ajuste para móviles pequeños */
     }
 }
+
+.mensaje-error {
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 0.9em;
+    min-height: 1.2em; /* Mantiene el espacio aunque esté vacío */
+    margin-bottom: 10px;
+}

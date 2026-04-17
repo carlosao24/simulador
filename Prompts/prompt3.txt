@@ -1,0 +1,13 @@
+Prompt 1:
+Quiero validar inputs en JavaScript.
+reglas: 
+Quiero que se muestre un mensaje debajo de cada input sin usan alert.
+Las letras del mensaje deben estar en color rojo, negrita y en cursiva.
+las validaciones que debes realizar:
+solo se aceptan números, máximo 5 dígitos, y por ultimo no debe estar vacío los casilleros.
+Quiero que uses los mismos ID que tiene ya colocados los cuales son: txtIngresos, txtEgresos, txtMonto, txtPlazo, txtTasaInteres.
+Ahora bien necesito que utilices el elemento onblur para las validaciones cuando el usuario sale del input.
+indicaciones extras: 
+no modificar los IDs existentes.
+mostrar los errrores en un elemento debajo de los inputs.
+quiere que lo que me entregues solo sean las partes que debo agregar o modificar en mi html, css y javascript.
