@@ -29,9 +29,14 @@ function validarInput(input) {
 function calcular() {
 
     let ingresos = parseFloat(document.getElementById("txtIngresos").value);
-    let egresos = parseFloat(document.getElementById("txtEgresos").value);
+    let arriendo = parseFloat(document.getElementById("txtArriendo").value);
+    let alimentación = parseFloat(document.getElementById("txtAlimentación").value);
+    let varios = parseFloat(document.getElementById("txtVarios").value);
 
-    let disponible = calcularDisponible(ingresos, egresos);
+    let gasto = calcularGasto(arriendo, alimentación, varios);
+    texto("spnGastos", gasto);
+
+    let disponible = calcularDisponible(ingresos, gasto); 
     texto("spnDisponible", disponible);
 
     let capacidadPagoDis = calcularCapacidadPago(disponible);
